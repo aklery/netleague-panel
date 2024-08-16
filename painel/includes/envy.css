@@ -1,0 +1,9 @@
+a#viado{
+    color:#fff;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+a:hover{
+    text-decoration: underline;
+}
