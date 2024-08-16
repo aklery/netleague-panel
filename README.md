@@ -1,8 +1,7 @@
-# netleaguepanel
+# netleaguepanel reupload
 
 Private Project o NetLeague
 
-Discord: https://discord.gg/Kh9aneM5ep
 
 
 TO DO:
